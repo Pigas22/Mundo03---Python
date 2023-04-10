@@ -21,4 +21,3 @@ for palavra in tupla:
 
     else:
       print(f'{vogais_salvas[vogais]}', end=' ' )
-    
