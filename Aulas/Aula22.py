@@ -14,5 +14,10 @@ Aprendendo a fazer o 'link' de arquivos .py
 Aprendendo sobre Pacotes:
 
 Dentro dos Pacotes podemos ter vários Módulos nichados com temas especifícos, por exemplo: um módulo só para números, datas, strings ou cores.
-"""
 
+Podemos criar módulos e pacotes dentro de um Pacote, criando em todos o arquivo __init__.py
+
+Arendendo a utilizar e importar as funções dentro de Pacotes.
+
+-=-=-=-=-=-=-=- Atvidades -=-=-=-=-=-=-=-=-
+"""
