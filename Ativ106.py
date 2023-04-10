@@ -41,5 +41,3 @@ def py_help():
 
 # Código Principal
 py_help()
-
-
