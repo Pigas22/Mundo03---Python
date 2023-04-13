@@ -1,3 +1,5 @@
+# Exercício 108 - Formatando Moedas em Python
+
 import comandos
 
 num = float(input('Digite um preço: R$ '))

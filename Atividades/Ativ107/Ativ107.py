@@ -1,3 +1,5 @@
+# Exercício 107 - Exercitando módulos em Python
+
 import comandos
 
 num = float(input('Digite um preço: R$ '))
